@@ -1,4 +1,4 @@
-# Obradu i Distribuciju Wikimedia Streamova uz pomoc Kafke
+# Obrada i Distribucija Wikimedia Streamova uz pomoc Kafke
 
 ## Opis
 
